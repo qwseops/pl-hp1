@@ -786,7 +786,7 @@ input[placeholder="Ð’Ð°ÑˆÐµ Ð¸Ð¼Ñ"], input[placeholder="Ð’Ð�
                         </div>
                         <div class="Footer-copyrightGroup">
                             <div class="Footer-copyrightItem">©
-                                <!-- -->2019
+                                <!-- -->2023
                                 <!-- -->
                                 <!-- --></div>
                             <div class="Footer-about"><a class="Link-root" href="#">
